@@ -1,0 +1,25 @@
+
+body {
+    /*background-color:  #fafafa;*/
+    background-color: #eae7dc;
+}
+
+h1 {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    text-align: center;
+    color: #e85a4f;
+}
+
+ul li a {
+    color: #e98074;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    /* Creating well-spaced links */
+    display: block;
+    padding: 10px;
+    
+}
+
+/* Apply styles to the links when hovered */
+ul li a:hover {
+    background-color: #e8594f53; /* Change the background color when hovered */
+}

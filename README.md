@@ -18,6 +18,7 @@ Upon completing this project, I will have demonstrated the following skills:
 
 # Website Link
 
-You can check out the Odin Recipes website [here](https://paulomborges.github.io/odin-recipes/).
+You can check
+ out the Odin Recipes website [here](https://paulomborges.github.io/odin-recipes/).
 
 This project serves as a foundation for further exploration in web development and version control practices. Through iterative development and continuous learning, I aim to improve my skills and build more complex projects in the future.
